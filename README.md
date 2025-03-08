@@ -1,13 +1,13 @@
 <div align="center">
-<h1>FDPClient</h1>
-<h3>A free mixin-based injection hacked-client for Minecraft using Minecraft Forge based on LiquidBounce.</h3>
+<h1>Index Hook</h1>
+<h3>A free fork of FDP Client.</h3>
 Website: <a href="https://fdpinfo.github.io">fdpinfo.github.io</a><br>
 Latest build: <a href="https://github.com/SkidderMC/FDPClient/actions/workflows/build.yml?query=event%3Apush">beta-version</a><br>
-Discord: <a href="https://discord.gg/WV6qPzyqTx">discord.gg/fdpclient </a><br>
+Discord: <a href="https://discord.gg/WvBxDt3KQ6">discord.gg/fdpclient </a><br>
 </div>
 
-## Installing FDPClient
-Click [here](docs/INSTALLING.md) for instructions on how to install FDPClient
+## Installing Index Hook
+Click [here](docs/INSTALLING.md) for instructions on how to install Index Hook
 
 ## The staff team
 Click [here](docs/TEAM.md) to find learn about FDPClient's team
@@ -36,7 +36,7 @@ This project entirely or partially for free and even commercially. However, plea
 Do the above and share your source code with everyone; just like we do!
 
 ## Setting up a Workspace
-Click [here](docs/WORKSPACE.md) for instructions to setup a workspace for FDPClient.
+Click [here](docs/WORKSPACE.md) for instructions to setup a workspace for Index Hook.
 
 ## Contributing
-Click [here](docs/NOTECONTRIBUTIONS.md) for information about contributing to FDPClient.
+Click [here](docs/NOTECONTRIBUTIONS.md) for information about contributing to Index Hook.
